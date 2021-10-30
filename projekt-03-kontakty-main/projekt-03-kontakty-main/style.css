@@ -5,6 +5,36 @@ html { box-sizing: border-box; }
 body {
 	font-family: sans-serif;
 	font-size: 14px;
+	background-color: black;
 }
 
 /* ---------------------------------------------------- */
+
+.kontakty {
+	background-color: white;
+}
+
+.container {
+	background-color:grey;
+	display:flex;
+	justify-content: space-around;
+	margin
+
+}
+
+.foto {
+	width: 150px;
+	border-radius: 50%;
+}
+
+.Jarmila,
+.Klotylda,
+.Lucie,
+.Lucinda {
+	background-color: white;
+	width: 22%;
+	margin:2rem;
+	padding:2rem;
+	justify-content: center;
+	text-align: center;
+}
